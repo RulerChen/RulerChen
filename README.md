@@ -1,4 +1,4 @@
-<p align="center" height="64px"> 
+<p align="center"> 
     <b style="font-size: 32px">Hello 😎 I'm RulerChen</b>    
     <br></br>
     <img height="32px" 
