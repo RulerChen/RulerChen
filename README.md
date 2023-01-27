@@ -1,5 +1,5 @@
-<p align="center"> 
-    <b style="font-size: 32px">Hello 😎 I'm RulerChen</b>    
+<p align="center" style="font-size: 32px"> 
+    <b>Hello 😎 I'm RulerChen</b>    
     <br></br>
     <img height="32px" 
     src="https://komarev.com/ghpvc/?username=RulerChen&style=for-the-badge&color=blue"/>
