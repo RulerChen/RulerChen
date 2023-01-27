@@ -6,10 +6,12 @@
 </h1>
 
 <h2 align="center"> 🈲 Basic Information 🈲 </h2>
-<ul>
-    <li> 🖥️ <a href="https://github.com/RulerChen">My Website</a></li>
-    <li> 🏫 <a href="https://management.ntu.edu.tw/IM">Dept. of Information Management, National Taiwan University</a></li>
-</ul>
+
+- 🖥️ [My Website](https://github.com/RulerChen)  
+
+- 🏫 [Dept. of Information Management, National Taiwan University](https://management.ntu.edu.tw/IM)  
+
+
 
 <h2 align="center"> 📚 My Skill </h2>
 <p>
