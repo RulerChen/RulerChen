@@ -1,9 +1,9 @@
-<p align="center" style="font-size: 32px"> 
-    <strong>Hello 😎 I'm RulerChen</strong>    
+<h1 align="center"> 
+    Hello 😎 I'm RulerChen    
     <br></br>
     <img height="32px" 
     src="https://komarev.com/ghpvc/?username=RulerChen&style=for-the-badge&color=blue"/>
-</p>
+</h1>
 
 <h2 align="center"> 🈲 Basic Information 🈲 </h2>
 
