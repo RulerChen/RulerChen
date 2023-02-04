@@ -39,10 +39,10 @@
 
 <h2 align="center"> ⭐ My Github Streak Stats</h2>
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=RulerChen&theme=dark" width="600px">
+    <img src="https://streak-stats.demolab.com/?user=RulerChen&theme=onedark" width="600px">
 </div>
 
 <h2 align="center"> ⭐ My Languages</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RulerChen&layout=compact&langs_count=8&theme=dark" width="600px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RulerChen&layout=compact&langs_count=8&theme=onedark" width="600px">
 </div>
