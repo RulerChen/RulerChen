@@ -7,7 +7,7 @@
 
 <h2 align="center"> 🈲 Basic Information 🈲 </h2>
 
-- 🖥️ [My Website](https://github.com/RulerChen](https://rulerchen.github.io/RulerChen-Website/)  
+- 🖥️ [My Website](https://rulerchen.github.io/RulerChen-Website/)  
 
 - 🏫 [Dept. of Information Management, National Taiwan University](https://management.ntu.edu.tw/IM)  
 
