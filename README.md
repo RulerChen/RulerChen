@@ -40,6 +40,11 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
+<h3>Other</h3>
+<span>
+    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+</span>
+
 <h2 align="center"> ⭐ My Github Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RulerChen&show_icons=true&theme=onedark" width="500px">
