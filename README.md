@@ -13,7 +13,7 @@
 
 
 
-<h2> 📚 My Skill </h2>
+<h2 align="center"> 📚 My Skill </h2>
 
 <h3>Language</h3>
 <span>
