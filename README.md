@@ -33,19 +33,9 @@
 <span>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
-</span>
-
-<h3>Database</h3>
-<span>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</span>
-
-<h3>CI/CD</h3>
-<span>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </span>
 
 <h3>Cloud</h3>
@@ -56,6 +46,7 @@
 
 <h3>Tool</h3>
 <span>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
 </span>
@@ -66,10 +57,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=RulerChen&show_icons=true&theme=onedark" width="500px">
 </div>
 
+<!-- 
 <h2 align="center"> ⭐ My Github Streak Stats</h2>
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=RulerChen&theme=onedark" width="500px">
-</div>
+</div>  
+-->
 
 <h2 align="center"> ⭐ My Languages</h2>
 <div align="center">
