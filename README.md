@@ -66,5 +66,5 @@
 
 <h2 align="center"> ⭐ My Languages</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RulerChen&layout=compact&langs_count=8&theme=onedark" width="500px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RulerChen&layout=compact&langs_count=20&theme=onedark&hide=MDX,HTML,EJS,Jupyter%20Notebook,Dockerfile" width="500px">
 </div>
