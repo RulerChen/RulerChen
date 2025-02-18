@@ -9,9 +9,13 @@
 
 - 🖥️ [My Website](https://rulerchen.github.io/RulerChen-Website/)  
 
-<!-- - 🏫 [Dept. of Information Management, National Taiwan University](https://management.ntu.edu.tw/IM)   -->
+<!-- 
+
+- 🏫 [Dept. of Information Management, National Taiwan University](https://management.ntu.edu.tw/IM)   
 
 - [![LeetCode user RulerChen](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRulerChen&logo=leetcode&logoColor=yellow)](https://leetcode.com/RulerChen/)
+
+-->
 
 <h2 align="center"> 📚 My Skill </h2>
 
