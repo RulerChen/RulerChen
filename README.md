@@ -5,11 +5,12 @@
     src="https://komarev.com/ghpvc/?username=RulerChen&style=for-the-badge&color=blue"/>
 </h1>
 
+<!-- 
+
 <h2 align="center"> 🈲 Basic Information 🈲 </h2>
 
 - 🖥️ [My Website](https://rulerchen.github.io/RulerChen-Website/)  
 
-<!-- 
 
 - 🏫 [Dept. of Information Management, National Taiwan University](https://management.ntu.edu.tw/IM)   
 
