@@ -17,7 +17,11 @@
 
 <!--  <h2 align="center"> ⭐ My Github Stats</h2> -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RulerChen&show_icons=true&theme=onedark" width="500px">
+    <img src="https://github-readme-stats.vercel.app/api?username=RulerChen&show_icons=true&theme=onedark" width="600px">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RulerChen&layout=compact&langs_count=20&theme=onedark&hide=MDX,HTML,EJS,Jupyter%20Notebook,Dockerfile" width="600px">
 </div>
 
 <!--  <h2 align="center"> 📚 My Skill </h2> -->
