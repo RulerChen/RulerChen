@@ -5,7 +5,7 @@
 </h1>
 
 <!-- 
-<h2 align="center"> 🈲 Basic Information 🈲 </h2>
+<h2 align="center"> 🈲 Basic Information </h2>
 
 - 🖥️ [My Website](https://rulerchen.github.io/RulerChen-Website/)  
 
