@@ -16,9 +16,9 @@
 -->
 
 <!--  <h2 align="center"> ⭐ My Github Stats</h2> -->
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RulerChen&show_icons=true&theme=onedark" width="500px">
-</div>
+</div> -->
 
 <!--
 <div align="center">
