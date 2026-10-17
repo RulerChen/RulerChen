@@ -14,17 +14,17 @@
 <br>
 
 <p align="center">
-  <img alt="C" src="https://cdn.simpleicons.org/c" width="48">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="C++" src="https://cdn.simpleicons.org/cplusplus" width="48">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Go" src="https://cdn.simpleicons.org/go" width="48">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Python" src="https://cdn.simpleicons.org/python" width="48">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript" width="48">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="TypeScript" src="https://cdn.simpleicons.org/typescript" width="48">
+  <img alt="C" src="https://cdn.simpleicons.org/c" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="C++" src="https://cdn.simpleicons.org/cplusplus" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Go" src="https://cdn.simpleicons.org/go" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Python" src="https://cdn.simpleicons.org/python" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="TypeScript" src="https://cdn.simpleicons.org/typescript" width="40">
 </p>
 
 <p align="center">
-  <img alt="docker" src="https://cdn.simpleicons.org/docker" width="48">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="kubernetes" src="https://cdn.simpleicons.org/kubernetes" width="48">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="postgresql" src="https://cdn.simpleicons.org/postgresql" width="48">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="linux kernel" src="https://cdn.simpleicons.org/linux" width="48">
+  <img alt="docker" src="https://cdn.simpleicons.org/docker" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="kubernetes" src="https://cdn.simpleicons.org/kubernetes" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="postgresql" src="https://cdn.simpleicons.org/postgresql" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="linux kernel" src="https://cdn.simpleicons.org/linux" width="40">
 </p>
