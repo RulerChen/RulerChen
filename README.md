@@ -5,8 +5,6 @@
   </picture>
 </p>
 
-<br>
-
 <h3 align="center">
   <em>Life is like a box of chocolates.<br>You never know how bitter it will be.</em>
 </h3>
