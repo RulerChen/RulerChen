@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-  <em>Life is like a box of chocolates.<br>You never know how bitter it will be.</em>
+  <em>Life is like a box of chocolates.<span>&#127851;</span><br>You never know how bitter it will be.</em>
 </h3>
 
 <br>
